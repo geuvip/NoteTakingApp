@@ -1,5 +1,7 @@
 # NoteTakingApp
 
+![Örnek resim](https://i.ibb.co/GFcqqQH/note-taking-app.png)
+
 ## Start Project 
 
 First Step <br>
