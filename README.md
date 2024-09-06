@@ -1,6 +1,6 @@
-# NoteTakingApp
+# NoteTakingApp Screenshoot
 
-![Örnek resim](https://i.ibb.co/GFcqqQH/note-taking-app.png)
+![Örnek resim](https://github.com/geuvip/NoteTakingApp/blob/main/note-taking-app.png)
 
 ## Start Project 
 
